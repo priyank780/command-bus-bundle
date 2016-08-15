@@ -1,0 +1,15 @@
+{
+  "name": "konradpodgorski/command-bus-bundle",
+  "license": "MIT",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "KP\\Bundle\\CommandBusBundle\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.5.9",
+    "symfony/symfony": "~2.8|~3.0",
+    "konradpodgorski/command-bus": "^0.1.0"
+  }
+}

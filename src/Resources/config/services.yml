@@ -1,0 +1,4 @@
+services:
+    kp.command_bus:
+        class: KP\CommandBus\CommandBus
+        arguments: ["@event_dispatcher"]
