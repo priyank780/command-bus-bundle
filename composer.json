@@ -9,7 +9,7 @@
   },
   "require": {
     "php": ">=5.5.9",
-    "symfony/symfony": "~2.8|~3.0|~4.0",
-    "konradpodgorski/command-bus": "^0.3"
+    "symfony/symfony": "~2.8|~3.0|~4.0|~5.0",
+    "priyank780/command-bus": "^0.4"
   }
 }
