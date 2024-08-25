@@ -1,5 +1,5 @@
 {
-  "name": "konradpodgorski/command-bus-bundle",
+  "name": "priyank780/command-bus-bundle",
   "license": "MIT",
   "type": "symfony-bundle",
   "autoload": {
